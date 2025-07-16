@@ -1,0 +1,36 @@
+Timesamp | Date and time of survey submission
+Sex | Sex of submitter
+Height | Submitter's height in cm.
+Weight | Submitter's weight in kg.
+Arm Span | Distance in cm between finger tip to finger tip when arms are stretched out.
+How long have you been climbing | Length of time user has been climbing in factors of 1/2 year intervals, with a max of 15.
+Where do you climb | Factor delineating of user climbs Indoor, outdoor, or both
+Hardest V grade ever climbed | The absolute hardest v-grade a climber has done without falling, from V1-V17
+Hardest V Grade climbed in the last 3 months | Hardest v-grade a climber has done within 3 months, from V1-V17
+The V grade you can send 90%-100% of routes | Hardest grade that climber is almost guarenteed to be able to climb, from V1-V17
+Hardest Route (Ewbank) | Hardest Ewbank graded route climber has completed
+Hardest Route 3 Months (Ewbank) | Hardest Ewbank graded route climber has completed in last 3 months
+Hardest Route 90% - 100% | Hardest  Ewbank grade that climber is almost guarenteed to be able to climb
+Frequency of climbing sessions per week | Rough frequency of number of climbing sessions an individual has on an average week, from 0 to 7
+Average hours climbing per week (not including training) | Average hours of climbing done in one week, from 0 to 30
+Average Hours training for climbing per week | Average hours of training for climbing done in one week (hangboarding, training boarding, gym specific workouts), from 0 to 20.
+Hangboard frequency per week | Number of days hangboarding per week, from 0 to 7
+Hangboard grips used | Types of finger holds trained on hangboard (Full crimp, half crimp, open crimp, front 3, back 3, front 2, middle 2, back 2, slopers, pinch, monos, i dont hangboard)
+Styles of hangboarding chosen | Style of hangboard workout (Max weight, min edge, repeaters, one arm hang program, no hangs, other protocol, i dont hangboard)
+Max weight hangboard 18mm edge - Half Crimp 10s | Maximum standable weight on 10 seconds of hangboarding on 18mm edge with half crimp, in KG
+Max weight hangboard 18mm edge - Open Crimp 10s | Maximum standable weight on 10 seconds of hangboarding on 18mm edge with open crimp, in KG
+Min Edge Used Half Crimp | Minimum edge used on 10 second hang half crimp, adding +kg if using extra weight, in mm
+Min Edge Used Open Crimp | Minimum edge used on 10 second hang open crimp, adding +kg if using extra weight, in mm
+Campus Board frequency per week | Number of days user spends per week working the campus board, from 0 to 7
+Campus Board times per week | Time spent on the campus board per week, in hours from 0 to 15
+Frequency of Endurance training sessions per week | Days per week spent training endurance, from 0 to 7
+Endurance training | Type of endurance training (i dont train endurance, 4x4, hangboard repeater protocols, max moves, systems boards, laps of routes, arc, feet on campusing, route climbing intervals, threshold intervals, other)
+General strength training frequency per week | Number of days per week spent training general strength, from 0 to 7
+Time spent general strenght training | Number of hours per week spent training general strength, in hours from 0 to 20
+Type of strength training | Types of strength training workouts (Antagonists, legs, core, upperbody pulling, upperbody pushing, no other strength training)
+Other activities | Physical activities other than climbing training and direct climbing
+Max pull up reps | Maximum number of pullups achieved 
+5 rep max weighted pull ups | 5 reps of max weight pullups, in KG and lb
+max push up reps | Maximum number of pushups
+Max L-sit time | Maximum time spent L sitting, in seconds. 
+
