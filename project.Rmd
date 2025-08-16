@@ -1,11 +1,11 @@
 ---
 title: "Predicting Rock Climbing Skill"
 author: "Orion Marini"
-date: "UCSB PSTAT 131 Winter 2024"
+date: "December 2024"
 output:
-  pdf_document: default*
   html_document: 
     code_folding: hide
+  pdf_document: default*
 subtitle: Using Machine Learning to Analyze Strength Metrics in order to Predict an
   Individual's Rock Climbing Ability.
 ---
@@ -30,7 +30,7 @@ library(vip)
 ```
 \
 &nbsp;
-![Bishop, California](C:/Users/accfo/Documents/pstat/131/project/v2.png){width="75%"}
+![Bishop, California](images/v2.png){width="75%"}
 
 ## Background
 
@@ -54,7 +54,7 @@ As for predictor variables, the data set in question has a decent number that we
 &nbsp;
 
 
-![Yosemite Valley, California](C:/Users/accfo/Documents/pstat/131/project/v6.png){width="60%"}
+![Yosemite Valley, California](images/v6.png){width="60%"}
 
 ## Exploratory Data Analysis
 
@@ -376,7 +376,7 @@ To summarize, a brief visual inspection of the trends such as these in our data 
 
 \
 &nbsp;
-![Joshua Tree, California](C:/Users/accfo/Documents/pstat/131/project/v3.png){width="40%"}
+![Joshua Tree, California](images/v3.png){width="40%"}
 
 
 # Model Building 
@@ -444,7 +444,7 @@ recipe <- recipe(ability_grade ~ ., data = climb_train) %>%
   step_scale(all_predictors()) 
 ```
 
-![Yosemimte Valley, California](C:/Users/accfo/Documents/pstat/131/project/v1.png){width="75%"}
+![Yosemimte Valley, California](images/v1.png){width="75%"}
 
 # Model Fitting
 
@@ -763,7 +763,7 @@ model_roc2
 ```
 A similar trend seems to exist among the SVM model in comparison to the random forest. However, this model seems to have particularly higher auc values in the regions where the data is more centralized. Critically, this could mean that this model is better suited, despite being not suited in the general case, for our data over the random forest model.
 
-![Bishop, California](C:/Users/accfo/Documents/pstat/131/project/v4.png){width="75%"}
+![Squamish, BC](images/v4.png){width="75%"}
 
 # Conclusion
 
